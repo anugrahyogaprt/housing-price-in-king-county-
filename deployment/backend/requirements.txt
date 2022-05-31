@@ -1,0 +1,6 @@
+waitress
+pandas
+numpy
+flask
+scikit-learn
+datetime
